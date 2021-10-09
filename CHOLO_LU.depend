@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1603952628 source:d:\sajid\varsity\semester-2\cse-1214_computer programming lab\cholo_lu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1604051464 source:d:\sajid\varsity\semester-2\cse-1214_computer programming lab\cholo_lu\sajid.c
+	<stdio.h>
+	<string.h>
+	<conio.h>
+
+1604038098 source:d:\sajid\varsity\semester-2\cse-1214_computer programming lab\cholo_lu\humayra.c
+	<stdio.h>
+	<string.h>
+	<conio.h>
+
+1604050867 source:d:\sajid\varsity\semester-2\cse-1214_computer programming lab\cholo_lu\khadiza.c
+	<stdio.h>
+	<string.h>
+	<conio.h>
+
+1604049770 source:d:\sajid\varsity\semester-2\cse-1214_computer programming lab\cholo_lu\iftekhar.c
+	<stdio.h>
+	<string.h>
+	<conio.h>
+
+1604039879 source:d:\sajid\varsity\semester-2\cse-1214_computer programming lab\cholo_lu\badhon.c
+	<stdio.h>
+	<string.h>
+	<conio.h>
+
